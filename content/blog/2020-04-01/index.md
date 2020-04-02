@@ -3,6 +3,6 @@
 ```javascript
 const a = 1
 function test () {
-  console.log(a)
+  console.log('哈哈呵呵嘿嘿')
 }
 ```
